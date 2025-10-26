@@ -2,7 +2,6 @@
 
 ![Java](https://img.shields.io/badge/Java-17-blue?logo=java)
 ![JavaFX](https://img.shields.io/badge/JavaFX-25.0.1-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 A **JavaFX-based Expense Tracker** to easily manage your daily expenses. Track, filter, and delete expenses by date, and get instant summaries of your spending.
 
