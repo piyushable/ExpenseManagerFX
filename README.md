@@ -32,14 +32,6 @@ A **JavaFX-based Expense Tracker** to easily manage your daily expenses. Track, 
 >
 ---
 
-## 🎬 Demo
-
-![Demo Placeholder](https://via.placeholder.com/600x300.png?text=Run+the+App+to+See+Demo)
-
-*(Replace this placeholder with an actual GIF or screenshot of your app.)*
-
----
-
 ## 🏃 How to Run
 
 ### Requirements
