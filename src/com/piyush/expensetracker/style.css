@@ -1,0 +1,56 @@
+/* style.css — clean modern look */
+
+.root {
+    -fx-font-family: "Segoe UI", "Inter", sans-serif;
+    -fx-background-color: #f7f7f7;
+}
+
+/* Title */
+.label {
+    -fx-font-size: 14px;
+}
+
+/* Header */
+#title {
+    -fx-font-size: 22px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #2c3e50;
+}
+
+/* Sidebar */
+.list-view {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #dcdcdc;
+}
+
+/* TableView */
+.table-view {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #dcdcdc;
+    -fx-table-cell-border-color: #f0f0f0;
+}
+
+.table-column-header {
+    -fx-font-weight: bold;
+    -fx-background-color: #e9ecef;
+}
+
+/* Buttons */
+.button {
+    -fx-background-color: #0078d7;
+    -fx-text-fill: white;
+    -fx-background-radius: 6;
+    -fx-padding: 5 15 5 15;
+}
+
+.button:hover {
+    -fx-background-color: #005fa3;
+}
+
+/* Input fields */
+.text-field, .date-picker {
+    -fx-background-radius: 6;
+    -fx-background-color: white;
+    -fx-border-color: #dcdcdc;
+    -fx-padding: 5;
+}

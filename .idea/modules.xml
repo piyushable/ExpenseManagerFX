@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ExpenseTrackerFX.iml" filepath="$PROJECT_DIR$/ExpenseTrackerFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExpenseManagerFX.iml" filepath="$PROJECT_DIR$/ExpenseManagerFX.iml" />
     </modules>
   </component>
 </project>
